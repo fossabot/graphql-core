@@ -8,6 +8,7 @@ _This library is a port of [graphql-js](https://github.com/graphql/graphql-js) t
 [![Build Status](https://travis-ci.org/graphql-python/graphql-core.svg?branch=master)](https://travis-ci.org/graphql-python/graphql-core)
 [![Coverage Status](https://coveralls.io/repos/graphql-python/graphql-core/badge.svg?branch=master&service=github)](https://coveralls.io/github/graphql-python/graphql-core?branch=master)
 [![Public Slack Discussion](https://graphql-slack.herokuapp.com/badge.svg)](https://graphql-slack.herokuapp.com/)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fscottschreckengaust%2Fgraphql-core.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fscottschreckengaust%2Fgraphql-core?ref=badge_shield)
 
 See more complete documentation at http://graphql.org/ and
 http://graphql.org/docs/api-reference-graphql/.
@@ -157,3 +158,6 @@ Tox can only use whatever versions of python are installed on your system. When 
 ## License
 
 [MIT License](https://github.com/graphql-python/graphql-core/blob/master/LICENSE)
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fscottschreckengaust%2Fgraphql-core.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fscottschreckengaust%2Fgraphql-core?ref=badge_large)
